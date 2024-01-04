@@ -1,0 +1,10 @@
+College 1
+Name: ram
+Address: 4374
+Phone number: 57835
+
+College 2
+Name: hari
+Address: 57835
+Phone number: 57385
+
